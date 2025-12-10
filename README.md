@@ -11,7 +11,7 @@ meaningfully integrated into modern software solutions in the Edtech industry.
 - ⚛️ As a kid, I loved playing physics-based games because I could spend hours finding ways to break them 
 - 🐱 My love for CS came from playing and making games on Scratch
 
-## 👀 What I'm Working On
+## 👀 What I'm Doing
 - **🌱 I’m currently learning**
   - Object-Oriented Programming
   - AWS
