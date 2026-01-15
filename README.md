@@ -15,7 +15,6 @@ meaningfully integrated into modern software solutions in the Edtech industry.
 - **🔭 Currently working on**
   - Building AI-powered applications in the Edtech space
   - A full-stack project integrating LLMs with modern web frameworks
-  - 
   
 - **🌱 Currently learning**
   - Advanced object-oriented design patterns
