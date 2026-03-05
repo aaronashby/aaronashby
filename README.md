@@ -13,12 +13,12 @@ meaningfully integrated into modern software solutions in the Edtech industry.
 
 ## 👀 What I'm Doing
 - **🔭 Currently working on**
-  - Building AI-powered applications in the Edtech space
-  - A full-stack project integrating LLMs with modern web frameworks
+  - Building a production AI application for a private company (repo private)
+  - An recommendation agent that uses First-Choice Hill Climbing and CSPs to plan trips
   
 - **🌱 Currently learning**
-  - Advanced object-oriented design patterns
-  - ML, reinforcement learning, and NLP
+  - Data structures and algorithms
+  - AI fundamentals (reinforcement learning, search algorithms, Markov Decision Processes, etc.)
 
 - **💼 Looking for**
   - Summer/Fall 2026 co-op and internship opportunities in software engineering or AI/ML
