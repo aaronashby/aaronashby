@@ -14,7 +14,7 @@ meaningfully integrated into modern software solutions in the Edtech industry.
 ## 👀 What I'm Doing
 - **🔭 Currently working on**
   - Building a production AI application for a private company (repo private)
-  - An recommendation agent that uses First-Choice Hill Climbing and CSPs to plan trips
+  - A recommendation agent that uses First-Choice Hill Climbing and CSPs to plan trips
   
 - **🌱 Currently learning**
   - Data structures and algorithms
