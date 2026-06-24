@@ -11,9 +11,9 @@ Hi! My name is Aaron. I'm a third-year student studying Computer Science with an
 |  Project |                   Link                  |                                                          Description                                                         |           Tech           |
 |:--------:|:---------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:------------------------:|
 | MathMate | https://github.com/Ashby-Core/math-mate | Built a tutoring platform that uses LLM technology (Claude API) to assess and strengthen student weaknesses in math subjects | Next.js, Supabase, Redis |
-|          |                                         |                                                            (0, 0)                                                            |          (0, 0)          |
-|          |                                         |                                                            (0, 0)                                                            |          (0, 0)          |
-|          |                                         |                                                            (0, 0)                                                            |          (0, 0)          |
+|          |                                         |                                                                                                                        |                    |
+|          |                                         |                                                                                                                        |                    |
+|          |                                         |                                                                                                                        |                    |
 
 ## Connect with Me 📥
 - Email: aaronashby2006@gmail.com
