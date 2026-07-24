@@ -1,4 +1,4 @@
-# Aaron Ashby | Software Engineer
+# Hi, I'm Aaron Ashby 👋🏾
 Hi! My name is Aaron. I'm a third-year student studying Computer Science with an AI concentration at Northeastern University. I'm interested in both Machine Learning technologies and creating software solutions to bring value to the people around me.
 
 ## Technical Skills 💻
